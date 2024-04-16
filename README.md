@@ -5,18 +5,18 @@ This is the project number two about department store management store
 
 To run this code please enter:
 
-  username: CIVILCD
+      username: CIVILCD
   
-  password: GROUP3
+      password: GROUP3
   
 Contributors:
 
-  LUCKY SHARMA
+      LUCKY SHARMA
   
-  KRISHAL MALLA THAKURI
+      KRISHAL MALLA THAKURI
   
-  KUSHAL ADHIKARI 
+      KUSHAL ADHIKARI 
   
-  KRITAN POKHREL
+      KRITAN POKHREL
   
 Reference: https://github.com/acharyasandeep/StoreManagementSystem
